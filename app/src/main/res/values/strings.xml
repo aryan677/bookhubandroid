@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="profile">Profile\n</string>
+    <string name="about_app">About app\n</string>
+</resources>
